@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://media.bizj.us/view/img/6150041/hilesheather051815tj-2*1200xx4730-2661-0-246.jpg");
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: rgb(17, 48, 105);
+}
+
+
+p{
+    background-color:rgba(255,255,255,0.5); #FFF0F5
+}
+
+table,th,td{
+    border: 2px solid rgb(0, 1, 10);
+}
+
